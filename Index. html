@@ -10,7 +10,7 @@
     <header>
         <div class="container">
             <div class="header-content">
-                <img src="/placeholder.svg?height=200&width=200" alt="Nelson Mandela" class="profile-image">
+                <img src="/placeholder.svg?height=200&width=200" alt="Nelson Mandela" class="profile.jpg">
                 <h1>Nelson Mandela</h1>
                 <p class="subtitle">Freedom Fighter, President, Icon of Peace</p>
                 <p class="dates">1918 - 2013</p>
@@ -138,12 +138,11 @@
         <section id="gallery">
             <h2>Photo Gallery</h2>
             <div class="gallery">
-                <img src="/placeholder.svg?height=200&width=300" alt="Nelson Mandela with family">
-                <img src="/placeholder.svg?height=200&width=300" alt="Mandela during his presidency">
-                <img src="/placeholder.svg?height=200&width=300" alt="Release from prison 1990">
-                <img src="/placeholder.svg?height=200&width=300" alt="Nobel Peace Prize ceremony">
-                <img src="/placeholder.svg?height=200&width=300" alt="Mandela addressing the nation">
-                <img src="/placeholder.svg?height=200&width=300" alt="Meeting with world leaders">
+                <img src="/placeholder.svg?height=200&width=300" alt="image1.jpg">
+                <img src="/placeholder.svg?height=200&width=300" alt="image2.jpg">
+                <img src="/placeholder.svg?height=200&width=300" alt="image3.jpg">
+                <img src="/placeholder.svg?height=200&width=300" alt="image.jpg">
+                
             </div>
         </section>
 
@@ -164,7 +163,7 @@
     <footer>
         <div class="container">
             <div class="footer-content">
-                <p>&copy; 2024 In Memory of Nelson Mandela</p>
+                <p>&copy; 2025 In Memory of Nelson Mandela</p>
                 <p>"The greatest glory in living lies not in never falling, but in rising every time we fall."</p>
             </div>
         </div>
