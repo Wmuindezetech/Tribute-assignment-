@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ 5<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +10,7 @@
     <header>
         <div class="container">
             <div class="header-content">
-                <img src="/placeholder.svg?height=200&width=200" alt="Nelson Mandela" class="profile.jpg">
+                <img src="profile.jpg" alt="Nelson Mandela" class="profile.svg">
                 <h1>Nelson Mandela</h1>
                 <p class="subtitle">Freedom Fighter, President, Icon of Peace</p>
                 <p class="dates">1918 - 2013</p>
@@ -138,10 +138,10 @@
         <section id="gallery">
             <h2>Photo Gallery</h2>
             <div class="gallery">
-                <img src="/placeholder.svg?height=200&width=300" alt="image1.jpg">
-                <img src="/placeholder.svg?height=200&width=300" alt="image2.jpg">
-                <img src="/placeholder.svg?height=200&width=300" alt="image3.jpg">
-                <img src="/placeholder.svg?height=200&width=300" alt="image4.jpg">
+                <img src="image1.jpg" alt="image1.jpg">
+                <img src="image2.jpg" alt="image2.jpg">
+                <img src="image1.jpg" alt="image3.jpg">
+                <img src="image1.jpg" alt="image4.jpg">
                 
             </div>
         </section>
