@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nelson Mandela - A Life of Freedom and Justice</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <img src="/placeholder.svg?height=200&width=200" alt="Nelson Mandela" class="profile-image">
+                <h1>Nelson Mandela</h1>
+                <p class="subtitle">Freedom Fighter, President, Icon of Peace</p>
+                <p class="dates">1918 - 2013</p>
+            </div>
+        </div>
+    </header>
+
+    <nav>
+        <div class="container">
+            <ul>
+                <li><a href="#biography">Biography</a></li>
+                <li><a href="#achievements">Achievements</a></li>
+                <li><a href="#timeline">Timeline</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#legacy">Legacy</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <section id="biography">
+            <h2>Biography</h2>
+            <div class="bio-content">
+                <p>Nelson Rolihlahla Mandela was born on July 18, 1918, in the village of Mvezo in South Africa. He became one of the most revered figures in modern history, dedicating his life to the fight against apartheid and the pursuit of equality, justice, and human dignity for all people.</p>
+                
+                <p>Mandela's journey from a rural village to becoming South Africa's first Black president is a testament to his unwavering commitment to justice. He studied law at the University of Fort Hare and the University of the Witwatersrand, where he became involved in anti-colonial politics and joined the African National Congress (ANC) in 1944.</p>
+                
+                <p>For his activism against the apartheid government, Mandela was imprisoned for 27 years, from 1962 to 1990. Rather than breaking his spirit, this experience strengthened his resolve and made him a global symbol of resistance to oppression. His release from prison marked the beginning of South Africa's transition to democracy.</p>
+                
+                <p>In 1994, Mandela was elected as South Africa's first Black president in the country's first fully representative democratic election. His presidency was marked by efforts to dismantle the legacy of apartheid through reconciliation and the establishment of a "Rainbow Nation" where all races could coexist peacefully.</p>
+                
+                <p>Mandela's legacy extends far beyond South Africa. He became a global icon of peace, reconciliation, and human rights, inspiring movements for justice around the world. His philosophy of forgiveness over revenge helped heal a nation and showed the world the power of reconciliation.</p>
+            </div>
+        </section>
+
+        <section class="quote-section">
+            <div class="quote">"Education is the most powerful weapon which you can use to change the world."</div>
+            <div class="quote-author">- Nelson Mandela</div>
+        </section>
+
+        <section id="achievements">
+            <h2>Major Achievements</h2>
+            <div class="achievements-grid">
+                <div class="achievement">
+                    <div class="achievement-year">1944</div>
+                    <h3>Joined the ANC</h3>
+                    <p>Became a member of the African National Congress and co-founded the ANC Youth League, beginning his lifelong fight against apartheid.</p>
+                </div>
+                <div class="achievement">
+                    <div class="achievement-year">1952</div>
+                    <h3>Defiance Campaign</h3>
+                    <p>Led the Defiance Campaign against unjust laws, establishing himself as a prominent anti-apartheid activist.</p>
+                </div>
+                <div class="achievement">
+                    <div class="achievement-year">1964</div>
+                    <h3>Rivonia Trial Speech</h3>
+                    <p>Delivered his famous "I am prepared to die" speech, becoming a symbol of resistance to oppression worldwide.</p>
+                </div>
+                <div class="achievement">
+                    <div class="achievement-year">1990</div>
+                    <h3>Release from Prison</h3>
+                    <p>Released after 27 years in prison, immediately resuming his role as a leader in the fight for democracy.</p>
+                </div>
+                <div class="achievement">
+                    <div class="achievement-year">1993</div>
+                    <h3>Nobel Peace Prize</h3>
+                    <p>Awarded the Nobel Peace Prize jointly with F.W. de Klerk for their work in ending apartheid peacefully.</p>
+                </div>
+                <div class="achievement">
+                    <div class="achievement-year">1994</div>
+                    <h3>First Black President</h3>
+                    <p>Elected as South Africa's first Black president, leading the country's transition to democracy.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="timeline">
+            <h2>Life Timeline</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-year">1918</div>
+                    <div class="timeline-content">
+                        <h3>Birth in Mvezo</h3>
+                        <p>Born Nelson Rolihlahla Mandela in the village of Mvezo, Eastern Cape, South Africa.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-year">1944</div>
+                    <div class="timeline-content">
+                        <h3>Joins ANC</h3>
+                        <p>Joined the African National Congress and co-founded the ANC Youth League.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-year">1962</div>
+                    <div class="timeline-content">
+                        <h3>Imprisonment</h3>
+                        <p>Arrested and sentenced to life imprisonment for his anti-apartheid activities.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-year">1990</div>
+                    <div class="timeline-content">
+                        <h3>Freedom</h3>
+                        <p>Released from Victor Verster Prison after 27 years of imprisonment.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-year">1994</div>
+                    <div class="timeline-content">
+                        <h3>Presidency</h3>
+                        <p>Elected as South Africa's first Black president in the country's first democratic election.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-year">2013</div>
+                    <div class="timeline-content">
+                        <h3>Legacy Lives On</h3>
+                        <p>Passed away at age 95, leaving behind a legacy of peace, reconciliation, and human rights.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="gallery">
+            <h2>Photo Gallery</h2>
+            <div class="gallery">
+                <img src="/placeholder.svg?height=200&width=300" alt="Nelson Mandela with family">
+                <img src="/placeholder.svg?height=200&width=300" alt="Mandela during his presidency">
+                <img src="/placeholder.svg?height=200&width=300" alt="Release from prison 1990">
+                <img src="/placeholder.svg?height=200&width=300" alt="Nobel Peace Prize ceremony">
+                <img src="/placeholder.svg?height=200&width=300" alt="Mandela addressing the nation">
+                <img src="/placeholder.svg?height=200&width=300" alt="Meeting with world leaders">
+            </div>
+        </section>
+
+        <section id="legacy">
+            <h2>Legacy</h2>
+            <div class="bio-content">
+                <p>Nelson Mandela's legacy transcends borders and generations. His unwavering commitment to justice, equality, and human dignity transformed not only South Africa but inspired liberation movements and human rights advocates worldwide. His philosophy of reconciliation over revenge showed the world that even the deepest wounds can heal through forgiveness and understanding.</p>
+                
+                <p>The Nelson Mandela Foundation continues his work in promoting social justice and human rights. Mandela Day, celebrated annually on July 18th, encourages people worldwide to dedicate 67 minutes of their time to helping others – representing the 67 years Mandela devoted to public service.</p>
+                
+                <p>His autobiography, "Long Walk to Freedom," remains one of the most influential memoirs of the 20th century. His speeches and writings continue to inspire leaders, activists, and ordinary citizens who seek to create a more just and equitable world.</p>
+                
+                <p>Perhaps Mandela's greatest legacy is the proof that change is possible – that systems of oppression can be dismantled through courage, persistence, and moral leadership. His life demonstrates that one person, armed with conviction and compassion, can indeed change the world. As he once said, "It always seems impossible until it's done."</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy; 2024 In Memory of Nelson Mandela</p>
+                <p>"The greatest glory in living lies not in never falling, but in rising every time we fall."</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
